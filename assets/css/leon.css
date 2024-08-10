@@ -195,7 +195,6 @@ header .container .links ul li:not(:last-child) {
 /* 2.Start Landing Section */
 .landing {
   position: relative;
-  background-image: url(/assets/images/landing.jpg);
   background-size: cover;
   width: 100vw;
   height: 100vh;
